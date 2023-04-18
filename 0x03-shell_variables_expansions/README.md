@@ -3,3 +3,4 @@
 2. The path to success is to take massive, determined action : this script Adds /action to the PATH
 3.  If the path be beautiful, let us not ask where it leads : this script counts the number of directories in the PATH
 4. Global variables : this script lists environment variables
+5. Local variables : this script lists all local variables and environment variables, and functions

@@ -4,3 +4,4 @@
 3.  If the path be beautiful, let us not ask where it leads : this script counts the number of directories in the PATH
 4. Global variables : this script lists environment variables
 5. Local variables : this script lists all local variables and environment variables, and functions
+6. Local variable : this script creates a new local variable

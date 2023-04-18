@@ -1,3 +1,2 @@
-#!/bin/bah
+#!/bin/bash
 echo "hello user : " $(whoami)
-

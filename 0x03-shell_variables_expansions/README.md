@@ -9,3 +9,4 @@
 8. Every addition to true knowledge is an addition to human power : this script prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE
 9. Divide and rule :  this script prints the result of POWER divided by DIVIDE
 10. Love is anterior to life, posterior to death, initial of creation, and the exponent of breath : this script displays the result of BREATH to the power LOVE
+11. There are 10 types of people in the world -- Those who understand binary, and those who don't : this script converts a number from base 2 to base 10
